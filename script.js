@@ -245,12 +245,12 @@ function PriorityQueue() {
   };
 }
 
-var pq = new PriorityQueue();
-pq.enqueue(["Beau Carnes", 2]);
-pq.enqueue(["Quincy Larson", 3]);
-pq.enqueue(["Ewa Mitulska-Wójcik", 1]);
-pq.enqueue(["Briana Swift", 2]);
-pq.printCollection();
-pq.dequeue();
-console.log(pq.front());
-pq.printCollection();
+// var pq = new PriorityQueue();
+// pq.enqueue(["Beau Carnes", 2]);
+// pq.enqueue(["Quincy Larson", 3]);
+// pq.enqueue(["Ewa Mitulska-Wójcik", 1]);
+// pq.enqueue(["Briana Swift", 2]);
+// pq.printCollection();
+// pq.dequeue();
+// console.log(pq.front());
+// pq.printCollection();
